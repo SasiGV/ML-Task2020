@@ -14,7 +14,7 @@ Machine Learning and Statistics at GMIT.
 3. Click on Download as Zip
 
 ## How to open the Jupyter notebook file
-The Jupyter Notebook for this project is named "ML-Task2020.ipynb". In order to open the file in Jupyter you will have to initiate Jupiter notebood. Once after opening the Jupyter notebook file, Click on the Kernel menu and select "Restart and Run all".
+The Jupyter Notebook for this project is named "ML-Task2020.ipynb". In order to open the file in Jupyter you will have to initiate Jupiter notebook. Once after opening the Jupyter notebook file, Click on the Kernel menu and select "Restart and Run all".
 
 ## Assessment Plan Check List
 
