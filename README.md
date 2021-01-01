@@ -19,13 +19,13 @@ The Jupyter Notebook for this project is named "ML-Task2020.ipynb". In order to 
 ## Assessment Plan Check List
 
 ### 1. Task 1: Square Root function
-- [x] 
+- [x] Complete
 
 ### 2. Task 2: Chi-squared Test for Independence
-- [x] 
+- [x] Complete
 
 ### 3. Task 3: Microsoft Excel methods for Standard Deviation 
-- [x] 
+- [x] Complete 
 
 ### 4. Task 4: K-means & K-Nearest-Neighbours clustering of Ronald Fisher’s famous Iris flower data set
-- [x] 
+- [x] Complete 
